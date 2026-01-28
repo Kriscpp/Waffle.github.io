@@ -1,1 +1,14 @@
+.waffle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 10px;
+}
 
+.waffle img {
+    max-width: 90vmin;
+    width: auto;
+    height: auto;
+    display: block;
+}
